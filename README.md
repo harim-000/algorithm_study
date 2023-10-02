@@ -13,11 +13,9 @@
 ## ✏️참가 인원
 
 
-
-| 김민석 | 유미현 | xxx | xxx | xxx |
+| 김민석 | 유미현 | 이서빈 | 정지원 | 재이 |
 | --- | --- | --- | --- | --- |
-| [깃허브](https://github.com/mingseok) | [깃허브](https://github.com/lazzvery) | ㅌ | ㅌ | ㅌ |
-
+| [깃허브](https://github.com/mingseok) | [깃허브](https://github.com/lazzvery) | [깃허브](https://github.com/leeseobin) | [깃허브](https://github.com/jiwon615) | [깃허브](https://github.com/zaysverse) |
 
 
 
