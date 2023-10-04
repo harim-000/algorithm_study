@@ -15,7 +15,7 @@
 
 | 김민석 | 유미현 | 이서빈 | 정지원 | 재이 |
 | --- | --- | --- | --- | --- |
-| [깃허브](https://github.com/mingseok) | [깃허브](https://github.com/lazzvery) | [깃허브](https://github.com/leeseobin) | [깃허브](https://github.com/jiwon615) | [깃허브](https://github.com/zaysverse) |
+| [깃허브](https://github.com/mingseok) | [깃허브](https://github.com/lazzvery) | [깃허브](https://github.com/leeseobin00) | [깃허브](https://github.com/jiwon615) | [깃허브](https://github.com/zaysverse) |
 
 
 
@@ -76,6 +76,8 @@
 - 해당 문제의 소스 코드를 올릴 시, 해당 디렉토리에서 `.md` 파일로 커밋합니다
 
     - 예시 : `Programmers` -> `김민석` -> `계산기.md`
+
+    - 마지막은 `pull request` !!
 
 - [커밋 메시지 컨벤션](https://gist.github.com/stephenparish/9941e89d80e2bc58a153)은 통일 합니다
 
