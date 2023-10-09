@@ -13,9 +13,9 @@
 ## ✏️참가 인원
 
 
-| 김민석 | 유미현 | 이서빈 | 정지원 | 재이 |
+| 김민석 | 재이 | 이서빈 | 공석 | 공석 |
 | --- | --- | --- | --- | --- |
-| [깃허브](https://github.com/mingseok) | [깃허브](https://github.com/lazzvery) | [깃허브](https://github.com/leeseobin00) | [깃허브](https://github.com/jiwon615) | [깃허브](https://github.com/zaysverse) |
+| [깃허브](https://github.com/mingseok) | [깃허브](https://github.com/zaysverse) | [깃허브](https://github.com/leeseobin00) | [깃허브]() | [깃허브]() |
 
 
 
@@ -83,7 +83,7 @@
 
     - 예시1) : `Programmers : (김민석) 계산기`
 
-    - 예시2) : `LeetCode : (유미현) 대소문자 변환`
+    - 예시2) : `LeetCode : (재이) 대소문자 변환`
 
 
 
