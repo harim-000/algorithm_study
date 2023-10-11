@@ -13,9 +13,9 @@
 ## ✏️참가 인원
 
 
-| 김민석 | 재이 | 이서빈 | 공석 | 공석 |
+| 김민석 | 재이 | 이서빈 | 조성은 | 공석 |
 | --- | --- | --- | --- | --- |
-| [깃허브](https://github.com/mingseok) | [깃허브](https://github.com/zaysverse) | [깃허브](https://github.com/leeseobin00) | [깃허브]() | [깃허브]() |
+| [깃허브](https://github.com/mingseok) | [깃허브](https://github.com/zaysverse) | [깃허브](https://github.com/leeseobin00) | [깃허브](https://github.com/syung05?tab=overview&from=2023-10-01&to=2023-10-11) | [깃허브]() |
 
 
 
