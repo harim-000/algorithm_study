@@ -1,0 +1,6 @@
+```java
+
+public void main(){
+}
+
+```
