@@ -13,9 +13,9 @@
 ## ✏️참가 인원
 
 
-| 김민석 | 재이 | 조성은 | 공석 | 공석 |
+| 김민석 | 재이 | 조성은 | 석하림 | 임대진 |
 | --- | --- | --- | --- | --- |
-| [깃허브](https://github.com/mingseok) | [깃허브](https://github.com/zaysverse) | [깃허브](https://github.com/syung05?tab=overview&from=2023-10-01&to=2023-10-11) | [깃허브]() | [깃허브]() |
+| [깃허브](https://github.com/mingseok) | [깃허브](https://github.com/zaysverse) | [깃허브](https://github.com/syung05?tab=overview&from=2023-10-01&to=2023-10-11) | [깃허브](https://github.com/harim-000) | [깃허브](https://github.com/limgoing) |
 
 
 
@@ -87,5 +87,85 @@
 
 
 
+<br/><br/>
+
+
+## 💬github 레포지토리 - issue 활용
+
+
+
+`issue`의 기능은 간단합니다. 
+
+모르는 내용, 공유하고 싶은 자료 등을 올리는 게시판입니다.
+
+```
+코딩 테스트 관련
+- 궁금한점
+- 노하우
+- 좋은 참고 자료
+- 추천하고 싶은 문제
+- 자바로 코테 풀 시 좋은 스킬(=문법)
+- 문제 접근 방법
+```
+자유로운 게시판 느낌으로 생각해주시면 감사하겠습니다.
+
+
+핵심은, 스터디 사이클에서 질문 & 답변을 한다는 것입니다.
+
+
+<br/>
+
+### 이렇게 진행하는 이유는,
+
+저희가 스터디를 진행함에 있어서 `"하나라도 기록을 남겨두면 좋지 않을까?"` 하는 
+
+
+생각에 이렇게 진행하게 되었습니다.
+ 
+<br/>
+
+즉, 언젠가 이 리포지토리가 스터디원분들에게 조금이라도, 
+
+도움이 될 수 있도록 이렇게 진행해볼까 합니다. 
+
+<br/>
+
+
+많은 이용 부탁드립니다!
+
+[📌링크](https://github.com/mingseok/algorithm_study/issues)
+
+
+<br/><br/>
+
+## 📝issue 사용 방법
+
+### 첫번째.
+
+위 📌링크 에 들어간다.
+
+<br/><br/>
+
+### 두번째.
+
+`New issue` 클릭 한다.
+
+![이미지](/Programmers/김민석/week1_string/설명1.PNG)
+
+
+<br/><br/>
+
+### 세번째.
+
+제목, 내용을 작성후 `submit` 하면 끝난다.
+
+![이미지](/Programmers/김민석/week1_string/설명2.PNG)
+
+
+<br/><br/>
+
+### 댓글 작성하는 방법.
+
+![이미지](/Programmers/김민석/week1_string/설명3.PNG)
 
 
